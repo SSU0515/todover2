@@ -1,0 +1,25 @@
+{
+  "short_name": "TODO with React",
+  "name": "TODOLIST with React",
+  "icons": [
+    {
+      "src": "pavicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://ecimg.cafe24img.com/pg1141b57510958061/kimsh05150/todoreact.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://ecimg.cafe24img.com/pg1141b57510958061/kimsh05150/todoreact.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#fff"
+}
